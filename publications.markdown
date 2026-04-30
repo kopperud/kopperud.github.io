@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
+order: 4
 ---
 
 This is where I put my publications. 

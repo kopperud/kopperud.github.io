@@ -18,17 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Bjørn Kopperud's Home Page
-email: kopperud at sign protonmail dot com
+title: Bjørn Kopperud 
+email: kopperud at-sign protonmail dot com
 description: >- # this means to ignore newlines until "baseurl:"
   This is Bjørn Tore Kopperud's home page. I am interested in testing macroevolutionary
   hypotheses, developing methods and writing software. This includes, amongst others,
   phylogenetic models of species diversification (birth death models), models of continuous 
   trait adaptation, and models of discrete character evolution. My favorite groups are 
   even-toed ungulates and bryozoans!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "home" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+# twitter_username: jekyllrb
 github_username:  kopperud
 
 # Build settings

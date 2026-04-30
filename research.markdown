@@ -2,6 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
+order: 2
 ---
 
 This is where I put my research pitch. 

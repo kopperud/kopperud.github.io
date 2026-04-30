@@ -2,6 +2,7 @@
 layout: page
 title: Software
 permalink: /software/
+order: 3
 ---
 
 This is where I put my software. 
