@@ -5,10 +5,9 @@ permalink: /publications/
 order: 4
 ---
 
-This is where I put my publications. 
-
 ## 2026
 
+- <strong>Kopperud BT</strong>. Efficient inference of clade-specific diversification rates with probabilistic approaches. Dissertation, LMU München: Faculty of Geosciences. [link](https://edoc.ub.uni-muenchen.de/36552/)
 - <strong>Kopperud BT</strong>, Capobianco A, Clarke JT, Palazzesi L and Höhna S. The nature and prevalence of diversification rate shifts across the Tree of Life. *Evolution Letters*. [link](https://doi.org/10.1093/evlett/qrag005)
 - Pienaar J, Bartoszek K, Brahmantio B, Fierst JL, Fuentes-González JA, Hansen TF, Kiang WHC, <strong>Kopperud BT</strong>, Voje KL. Phylogenetic Comparative Methods for Studying Adaptation: The Adaptation-Inertia Framework. *Journal of Evolutionary Biology*, 39 (1), 1-17. [link](https://doi.org/10.1093/jeb/voaf113)
 
@@ -24,6 +23,7 @@ This is where I put my publications.
 
 ## 2023
 - Grabowski M, <strong>Kopperud BT</strong>, Tsuboi M and Hansen TF. Both diet and sociality affect primate brain-size evolution. *Systematic Biology*, 72(2), 404-418, [link](https://doi.org/10.1093/sysbio/syac075)
+- Grabowski M, Pienaar J, Voje KL, Andersson S, Fuentes-Gonzalez J, <strong>Kopperud BT</strong>, Moen DS, Tsuboi M, Uyeda J, Hansen TF. A Cautionary Note on “A Cautionary Note on the Use of Ornstein Uhlenbeck Models in Macroevolutionary Studies”. Systematic Biology, 72(4), 955-963. [link](https://academic.oup.com/sysbio/article/72/4/955/7179891?guestAccessKey=)
 - <strong>Kopperud BT</strong>, Magee AF, Höhna S. Rapidly changing speciation and extinction rates can be inferred in spite of nonidentifiability. *Proceedings of the National Academy of Sciences*, 120(7), e2208851120. [link](https://www.pnas.org/doi/abs/10.1073/pnas.2208851120)
 
 ## 2022
@@ -34,15 +34,13 @@ This is where I put my publications.
 
 ## 2020
 
+- Tsuboi M, <strong>Kopperud BT</strong>, Syrowatka C, Grabowski M, Voje KL, Pélabon C, Hansen TF. Measuring complex morphological traits with 3D photogrammetry: a case study with deer antlers. Evolutionary Biology 47(2), 175-186. [link](https://link.springer.com/article/10.1007/s11692-020-09496-9)
 
+## 2019
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- <strong>Kopperud BT</strong>, Lidgard S, Liow LH. Text-mined fossil biodiversity dynamics using machine learning. Proceedings of the Royal Society B: Biological Sciences 286(1901). [link](https://royalsocietypublishing.org/rspb/article/286/1901/20190022/85006)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## 2018
 
+- Tsuboi M, van der Bijl W, <strong>Kopperud BT</strong>, Erritzøe J, Voje KL, Kotrschal A, Yopak KE, Collin SP, Iwaniuk AN, Kolm N. Breakdown of brain–body allometry and the encephalization of birds and mammals. Nature Ecology & Evolution 2, no. 9: 1492-1500. [link](https://www.nature.com/articles/s41559-018-0632-1)
 
-[jekyll-organization]: https://github.com/jekyll
